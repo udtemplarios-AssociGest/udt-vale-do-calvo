@@ -1,0 +1,11 @@
+SITE UDT — INSCRIÇÕES DE SÓCIOS E ATLETAS
+
+Joia: 5 EUR (única)
+Quota anual: 12 EUR
+Primeiro ano: 17 EUR (indicativo)
+
+O site é estático e funciona no GitHub Pages. O formulário NÃO envia pedidos automaticamente. O candidato prepara/copia/descarrega a mensagem e envia-a por um contacto oficial divulgado pela UDT. Para submissões automáticas será necessário configurar um serviço de formulários e respetiva política de privacidade, ou backend seguro.
+
+Para publicar: GitHub > novo repositório público > Upload files (todo o conteúdo desta pasta) > Settings > Pages > Deploy from a branch > main / root.
+
+Não publicar dados pessoais recebidos no repositório.
